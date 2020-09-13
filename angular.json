@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sprints-ecommerce"
+    }
+  },
+  "defaultProject": "sprints-ecommerce",
+  "cli": {
+    "analytics": "41426e02-16de-460d-b6c4-52fb328e6ca7"
+  }
 }
